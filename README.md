@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Kaka 👋
 
-<!--
-**g6shcdjwbd-cmyk/g6shcdjwbd-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Quantitative Financial Analyst** with a strong passion for bridging the gap between advanced mathematics, data science, and financial markets. My goal is to leverage computational models and quantitative research to decode market complexities and develop systematic trading insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently pursuing a Bachelor's degree in **Financial Engineering**.
+- 📊 Deeply interested in **Quantitative Finance**, **Algorithmic Trading**, and data-driven investment strategies.
+- 🎯 Dedicated to mastering the mathematical and statistical foundations required to analyze and predict financial time-series.
+
+### 📚 What I'm Currently Learning & Exploring
+- 🔢 **Advanced Mathematics:** Stochastic Calculus, Partial Differential Equations (PDEs), Probability Theory, and Optimization.
+- 💡 **Quant Strategies:** Principles of Mean Reversion, Deep Value strategies, and Mathematical Modeling for asset pricing.
+- 📈 **Data Science & ML:** Application of advanced Machine Learning and Simulation techniques in financial data.
+
+### 🛠️ Tech Stack & Skills
+- **Programming Languages:** Python, C+
+- **Data & Quant Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels
+- **Tools & Platforms:** Jupyter Notebook, Git
+
+### 📈 GitHub Analytics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+### 📫 How to reach me
+- **Email:** pannawatch5108@gmail.com
